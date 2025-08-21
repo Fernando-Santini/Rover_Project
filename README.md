@@ -1,6 +1,7 @@
 # Projeto: Rover de Inspeção: Robô Móvel para Monitoramento em Ambientes de Difícil Acesso
 
-<link href="https://www.youtube.com/watch?v=-yvNKuH8tJg">Link do video de apresentação</link>
+Assista ao Video de divulgação clicando [aqui](https://www.youtube.com/watch?v=-yvNKuH8tJg)
+
 
 Este repositório contém os materiais de **hardware** e **software** desenvolvidos para um rover de inspeção industrial com **câmera ESP32-CAM**, projetado para operar em **ambientes de alto risco**, onde a presença humana não é recomendada.  
 
